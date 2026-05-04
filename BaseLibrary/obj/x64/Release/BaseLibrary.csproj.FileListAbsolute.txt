@@ -1,0 +1,8 @@
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\BaseLibrary\bin\x64\Release\BaseLibrary.dll
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\BaseLibrary\bin\x64\Release\BaseLibrary.pdb
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\BaseLibrary\obj\x64\Release\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\BaseLibrary\obj\x64\Release\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\BaseLibrary\obj\x64\Release\BaseLibrary.dll
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\BaseLibrary\obj\x64\Release\BaseLibrary.pdb
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\BaseLibrary\bin\x64\Release\System.Data.SQLite.dll
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\BaseLibrary\obj\x64\Release\BaseLibr.6395AA90.Up2Date

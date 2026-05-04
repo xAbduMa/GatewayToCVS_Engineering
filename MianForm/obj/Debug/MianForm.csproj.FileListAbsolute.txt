@@ -1,0 +1,14 @@
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\Debug\MianForm.exe.config
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\Debug\MianForm.exe
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\Debug\MianForm.pdb
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\Debug\BaseLibrary.dll
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\Debug\System.Data.SQLite.dll
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\Debug\BaseLibrary.pdb
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\Debug\MianForm.csproj.AssemblyReference.cache
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\Debug\MianForm.Properties.Resources.resources
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\Debug\MianForm.csproj.GenerateResource.cache
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\Debug\MianForm.csproj.CoreCompileInputs.cache
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\Debug\MianForm.csproj.Up2Date
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\Debug\MianForm.exe
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\Debug\MianForm.pdb
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\Debug\MianForm.exe.config
