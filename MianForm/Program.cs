@@ -1,8 +1,6 @@
 ﻿using BaseLibrary;
 using System;
-using System.Data.SqlClient;
 using System.Windows.Forms;
-using System.Data.SQLite;
 
 namespace MainForm
 {
@@ -17,7 +15,7 @@ namespace MainForm
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            AppConfigProvider appConfigProvider = new AppConfigProvider("DevelopmentCVS");
+            AppConfigProvider appConfigProvider = new AppConfigProvider("DevelopmentHome");
             
             if (appConfigProvider.HasConnection())
             {
