@@ -7,8 +7,8 @@
     <ProjectGuid>{3035B899-D077-440B-9999-9214E7A15968}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BaseLibrary</RootNamespace>
-    <AssemblyName>BaseLibrary</AssemblyName>
+    <RootNamespace>ConnectionsLibrary</RootNamespace>
+    <AssemblyName>ConnectionsLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -84,6 +84,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppConfigProvider.cs" />
+    <Compile Include="DbConnector.cs" />
     <Compile Include="ExceptionsHandler.cs" />
     <Compile Include="IDatabaseConnectionStringProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

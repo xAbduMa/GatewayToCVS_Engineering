@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\",
+  "WorkspaceRootPath": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73C4D36F-6D04-4315-B432-04B69239D043}|OperationsLibrary\\OperationsLibrary.csproj|c:\\users\\mahmouds\\source\\repos\\xabduma\\gatewaytocvs_engineering\\operationslibrary\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73C4D36F-6D04-4315-B432-04B69239D043}|OperationsLibrary\\OperationsLibrary.csproj|solutionrelative:operationslibrary\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|ConnectionsLibrary\\ConnectionsLibrary.csproj|c:\\users\\abdelm\\source\\repos\\xabduma\\gatewaytocvs_engineering\\connectionslibrary\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|ConnectionsLibrary\\ConnectionsLibrary.csproj|solutionrelative:connectionslibrary\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73C4D36F-6D04-4315-B432-04B69239D043}|OperationsLibrary\\OperationsLibrary.csproj|C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\operationslibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73C4D36F-6D04-4315-B432-04B69239D043}|OperationsLibrary\\OperationsLibrary.csproj|solutionrelative:operationslibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9485743-533E-42FA-BC10-E6D4AF4E3E62}|MianForm\\MianForm.csproj|C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\mianform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9485743-533E-42FA-BC10-E6D4AF4E3E62}|MianForm\\MianForm.csproj|c:\\users\\abdelm\\source\\repos\\xabduma\\gatewaytocvs_engineering\\mianform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9485743-533E-42FA-BC10-E6D4AF4E3E62}|MianForm\\MianForm.csproj|solutionrelative:mianform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|ConnectionsLibrary\\ConnectionsLibrary.csproj|c:\\users\\abdelm\\source\\repos\\xabduma\\gatewaytocvs_engineering\\connectionslibrary\\appconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|ConnectionsLibrary\\ConnectionsLibrary.csproj|solutionrelative:connectionslibrary\\appconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|ConnectionsLibrary\\ConnectionsLibrary.csproj|c:\\users\\abdelm\\source\\repos\\xabduma\\gatewaytocvs_engineering\\connectionslibrary\\sqliteprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|ConnectionsLibrary\\ConnectionsLibrary.csproj|solutionrelative:connectionslibrary\\sqliteprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,45 +33,56 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\OperationsLibrary\\User.cs",
-              "RelativeDocumentMoniker": "OperationsLibrary\\User.cs",
-              "ToolTip": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\OperationsLibrary\\User.cs",
-              "RelativeToolTip": "OperationsLibrary\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SQLiteProvider.cs",
+              "DocumentMoniker": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\ConnectionsLibrary\\SQLiteProvider.cs",
+              "RelativeDocumentMoniker": "ConnectionsLibrary\\SQLiteProvider.cs",
+              "ToolTip": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\ConnectionsLibrary\\SQLiteProvider.cs",
+              "RelativeToolTip": "ConnectionsLibrary\\SQLiteProvider.cs",
+              "ViewState": "AgIAABcAAACAzMzMzEwmwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T05:59:47.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\OperationsLibrary\\Role.cs",
-              "RelativeDocumentMoniker": "OperationsLibrary\\Role.cs",
-              "ToolTip": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\OperationsLibrary\\Role.cs",
-              "RelativeToolTip": "OperationsLibrary\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T05:50:37.399Z",
+              "WhenOpened": "2026-05-05T21:48:10.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
-              "RelativeDocumentMoniker": "MianForm\\Program.cs",
-              "ToolTip": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
-              "RelativeToolTip": "MianForm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Title": "AppConfigProvider.cs",
+              "DocumentMoniker": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\ConnectionsLibrary\\AppConfigProvider.cs",
+              "RelativeDocumentMoniker": "ConnectionsLibrary\\AppConfigProvider.cs",
+              "ToolTip": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\ConnectionsLibrary\\AppConfigProvider.cs",
+              "RelativeToolTip": "ConnectionsLibrary\\AppConfigProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T19:16:36.596Z"
+              "WhenOpened": "2026-05-05T20:42:05.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbConnector.cs",
+              "DocumentMoniker": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\ConnectionsLibrary\\DbConnector.cs",
+              "RelativeDocumentMoniker": "ConnectionsLibrary\\DbConnector.cs",
+              "ToolTip": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\ConnectionsLibrary\\DbConnector.cs",
+              "RelativeToolTip": "ConnectionsLibrary\\DbConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:18:17.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
+              "RelativeDocumentMoniker": "MianForm\\Program.cs",
+              "ToolTip": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
+              "RelativeToolTip": "MianForm\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:17:29.283Z",
+              "EditorCaption": ""
             }
           ]
         }

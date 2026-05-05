@@ -2,8 +2,8 @@
 using System;
 using System.Windows.Forms;
 
-namespace MainForm
-{
+namespace MainForm { 
+
     internal static class Program
     {
         /// <summary>
@@ -14,28 +14,18 @@ namespace MainForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
-            AppConfigProvider appConfigProvider = new AppConfigProvider("DevelopmentHome");
-            
-            if (appConfigProvider.HasConnection())
-            {
-                MessageBox.Show("Connected successfully to Microsoft SQL Server database!!");
-            }
-            else
-            {
-                MessageBox.Show("Failed to connect to Microsoft SQL Server database!!");
-            }
-
-            SQLiteProvider sqLiteProvider = new SQLiteProvider(Application.StartupPath, "ANSI-B4P1N2V0.2.db");
-
-            if (sqLiteProvider.HasConnection())
-            {
-                MessageBox.Show("Connected successfully to SQLite database!!");
-            }
-            else
-            {
-                MessageBox.Show("Failed to connect to SQLite database!!");
-            }
+            string sqlServerConnectionString = DbConnector.Connections["DevelopmentCVS"];
+            string sqlServerProvider = DbConnector.Providers["DevelopmentCVS"];
+            bool IsConnected = DbConnector.HasConnection(sqlServerProvider, sqlServerConnectionString);
+            if (IsConnected) MessageBox.Show("Connected successfully to Microsoft SQL Server database!!");
+            if (!IsConnected) MessageBox.Show("Failed to connect to Microsoft SQL Server database!!");
+            string sqLiteConnectionString = DbConnector.Connections["ANSI-B4P1N2DB"];
+            string sqLiteProvider = DbConnector.Providers["ANSI-B4P1N2DB"];
+            string absolutePath = AppDomain.CurrentDomain.BaseDirectory;
+            string useConnectionString = sqLiteConnectionString.Replace("{AppDir}", absolutePath.TrimEnd('\\'));
+            IsConnected = DbConnector.HasConnection(sqLiteProvider, useConnectionString);
+            if (IsConnected) MessageBox.Show("Connected successfully to SQLite database!!");
+            if (!IsConnected) MessageBox.Show("Failed to connect to SQLite database!!");
             
             //Application.Run(new Form1());
         }

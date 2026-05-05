@@ -136,7 +136,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BaseLibrary\ConnectionsLibrary.csproj">
+    <ProjectReference Include="..\ConnectionsLibrary\ConnectionsLibrary.csproj">
       <Project>{3035b899-d077-440b-9999-9214e7a15968}</Project>
       <Name>ConnectionsLibrary</Name>
     </ProjectReference>
