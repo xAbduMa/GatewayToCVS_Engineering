@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9485743-533E-42FA-BC10-E6D4AF4E3E62}|MianForm\\MianForm.csproj|c:\\users\\mahmouds\\source\\repos\\xabduma\\gatewaytocvs_engineering\\mianform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73C4D36F-6D04-4315-B432-04B69239D043}|OperationsLibrary\\OperationsLibrary.csproj|c:\\users\\mahmouds\\source\\repos\\xabduma\\gatewaytocvs_engineering\\operationslibrary\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C4D36F-6D04-4315-B432-04B69239D043}|OperationsLibrary\\OperationsLibrary.csproj|solutionrelative:operationslibrary\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C4D36F-6D04-4315-B432-04B69239D043}|OperationsLibrary\\OperationsLibrary.csproj|C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\operationslibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C4D36F-6D04-4315-B432-04B69239D043}|OperationsLibrary\\OperationsLibrary.csproj|solutionrelative:operationslibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9485743-533E-42FA-BC10-E6D4AF4E3E62}|MianForm\\MianForm.csproj|C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\mianform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9485743-533E-42FA-BC10-E6D4AF4E3E62}|MianForm\\MianForm.csproj|solutionrelative:mianform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|BaseLibrary\\BaseLibrary.csproj|C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\baselibrary\\sqliteprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\sqliteprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|BaseLibrary\\BaseLibrary.csproj|C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\baselibrary\\appconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\appconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|BaseLibrary\\BaseLibrary.csproj|C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\baselibrary\\baselibraryinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\baselibraryinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,52 +34,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseLibraryInterfaces.cs",
-              "DocumentMoniker": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\BaseLibrary\\BaseLibraryInterfaces.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\BaseLibraryInterfaces.cs",
-              "ToolTip": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\BaseLibrary\\BaseLibraryInterfaces.cs",
-              "RelativeToolTip": "BaseLibrary\\BaseLibraryInterfaces.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T21:40:42.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppConfigProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\BaseLibrary\\AppConfigProvider.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\AppConfigProvider.cs",
-              "ToolTip": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\BaseLibrary\\AppConfigProvider.cs",
-              "RelativeToolTip": "BaseLibrary\\AppConfigProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T21:32:12.589Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SQLiteProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\BaseLibrary\\SQLiteProvider.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\SQLiteProvider.cs",
-              "ToolTip": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\BaseLibrary\\SQLiteProvider.cs",
-              "RelativeToolTip": "BaseLibrary\\SQLiteProvider.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAUwCQAAAASAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\OperationsLibrary\\User.cs",
+              "RelativeDocumentMoniker": "OperationsLibrary\\User.cs",
+              "ToolTip": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\OperationsLibrary\\User.cs",
+              "RelativeToolTip": "OperationsLibrary\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T21:23:44.839Z"
+              "WhenOpened": "2026-05-05T05:59:47.271Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\OperationsLibrary\\Role.cs",
+              "RelativeDocumentMoniker": "OperationsLibrary\\Role.cs",
+              "ToolTip": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\OperationsLibrary\\Role.cs",
+              "RelativeToolTip": "OperationsLibrary\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:50:37.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
               "RelativeDocumentMoniker": "MianForm\\Program.cs",
               "ToolTip": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
               "RelativeToolTip": "MianForm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T19:16:36.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T19:16:36.596Z"
             }
           ]
         }

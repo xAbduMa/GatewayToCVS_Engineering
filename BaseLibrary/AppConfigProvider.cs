@@ -2,9 +2,9 @@
 using System.Configuration;
 using System.Data.SqlClient;
 
-namespace BaseLibrary
+namespace ConnectionsLibrary
 {
-    public class AppConfigProvider : IDatabaseConnectionStringProvider
+    public class AppConfigProvider : ExceptionsHandler, IDatabaseConnectionStringProvider
     {
         private readonly string _connectionName;
         private string _connectionString;
@@ -43,6 +43,8 @@ namespace BaseLibrary
                     }
                     catch (Exception ex)
                     {
+                        mHasException = true;
+                        mLastException = ex;
                     }
                 }
             }

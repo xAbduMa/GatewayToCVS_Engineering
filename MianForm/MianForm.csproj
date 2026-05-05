@@ -136,9 +136,9 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BaseLibrary\BaseLibrary.csproj">
+    <ProjectReference Include="..\BaseLibrary\ConnectionsLibrary.csproj">
       <Project>{3035b899-d077-440b-9999-9214e7a15968}</Project>
-      <Name>BaseLibrary</Name>
+      <Name>ConnectionsLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

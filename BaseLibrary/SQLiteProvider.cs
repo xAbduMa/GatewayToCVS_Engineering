@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Data.SQLite;
 
-namespace BaseLibrary
+namespace ConnectionsLibrary
 {
 
-    public class SQLiteProvider : IDatabaseConnectionStringProvider
+    public class SQLiteProvider : ExceptionsHandler, IDatabaseConnectionStringProvider
     {
         private readonly string _databaseName;
         private readonly string _appSUPath;
@@ -40,6 +40,8 @@ namespace BaseLibrary
                     }
                     catch (Exception ex)
                     {
+                        mHasException = true;
+                        mLastException = ex;
                     }
                 }
             }
