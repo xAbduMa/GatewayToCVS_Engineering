@@ -19,17 +19,19 @@ C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\x64\D
 C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\x64\Debug\MianForm.exe
 C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\x64\Debug\MianForm.pdb
 C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\x64\Debug\MianForm.exe.config
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\ConnectionsLibrary.dll
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\ConnectionsLibrary.pdb
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\e_sqlite3.dll
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\MianForm.exe.config
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\MianForm.exe
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\MianForm.pdb
-C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\BaseLibrary.dll
+C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\ConnectionsLibrary.dll
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\System.Buffers.dll
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\System.Memory.dll
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\System.Numerics.Vectors.dll
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\System.Data.SQLite.dll
-C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\BaseLibrary.pdb
+C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\ConnectionsLibrary.pdb
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\System.Buffers.xml
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\System.Memory.xml
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\System.Numerics.Vectors.xml
@@ -42,5 +44,3 @@ C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\x64
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\x64\Debug\MianForm.exe
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\x64\Debug\MianForm.pdb
 C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\obj\x64\Debug\MianForm.exe.config
-C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\ConnectionsLibrary.dll
-C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\MianForm\bin\x64\Debug\ConnectionsLibrary.pdb

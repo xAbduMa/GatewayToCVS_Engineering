@@ -14,3 +14,11 @@ C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary
 C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary\obj\x64\Debug\Connecti.FAF56C72.Up2Date
 C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary\obj\x64\Debug\ConnectionsLibrary.dll
 C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary\obj\x64\Debug\ConnectionsLibrary.pdb
+C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary\bin\x64\Debug\ConnectionsLibrary.dll
+C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary\bin\x64\Debug\ConnectionsLibrary.pdb
+C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary\obj\x64\Debug\ConnectionsLibrary.csproj.AssemblyReference.cache
+C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary\obj\x64\Debug\ConnectionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary\obj\x64\Debug\Connecti.FAF56C72.Up2Date
+C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary\obj\x64\Debug\ConnectionsLibrary.dll
+C:\Users\Mahmouds\source\repos\xAbduMa\GatewayToCVS_Engineering\ConnectionsLibrary\obj\x64\Debug\ConnectionsLibrary.pdb

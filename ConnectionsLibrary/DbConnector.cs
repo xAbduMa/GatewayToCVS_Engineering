@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Configuration;
 using System.Data.SqlClient;
 using System.Data.SQLite;
@@ -6,6 +7,11 @@ using System.Linq;
 
 namespace ConnectionsLibrary
 {
+    public struct ConnectionTest
+    {
+        public bool Connected;
+        public string Message;
+    }
     public static class DbConnector
     {
         // Static dictionary to store connection strings by name
@@ -25,49 +31,73 @@ namespace ConnectionsLibrary
                 .ToDictionary(cs => cs.Name, cs => cs.ProviderName);
         }
 
-        public static bool HasConnection(string providerName, string connectionString) 
+        public static ConnectionTest HasConnection(string providerName, string connectionString) 
         {
-            bool IsConnected = false;
+            ConnectionTest result;
+            result.Connected = false;
+            result.Message = "";
             switch (providerName)
             {
                 case "System.Data.SQLite":
-                    IsConnected=HasSqLiteConnection(connectionString); break;
+                    result = HasSqLiteConnection(connectionString); break;
                 case "System.Data.SqlClient":
-                    IsConnected=HasSqlServerConnection(connectionString); break;
+                    result = HasSqlServerConnection(connectionString); break;
             }
-            return IsConnected;
+            return result;
         }
 
         // Check if you have SQL Server connection
-        public static bool HasSqlServerConnection(string connectionString)
+        public static ConnectionTest HasSqlServerConnection(string connectionString)
         {
-            bool IsConnected = false;
+            ConnectionTest result;
+            result.Connected = false;
+            result.Message = "";
             if (!string.IsNullOrEmpty(connectionString))
-            {                
-                using (var connection = new SqlConnection(connectionString))
+            {
+                try
                 {
-                    connection.Open();
-                    connection.Close();
-                    IsConnected = true;
+                    using (var connection = new SqlConnection(connectionString))
+                    {
+                        connection.Open();
+                        connection.Close();
+                        result.Connected = true;
+                        result.Message = "Connected successfully to SQL Server database!!";
+                    }
                 }
+                catch (Exception ex)
+                {
+                    result.Connected = false;
+                    result.Message = ex.ToString();
+                }                                  
             }
-            return IsConnected;
+            return result;
         }
 
         // Check if you have SQLite connection
-        public static bool HasSqLiteConnection(string connectionString)
+        public static ConnectionTest HasSqLiteConnection(string connectionString)
         {
-            bool IsConnected = false;
+            ConnectionTest result;
+            result.Connected = false;
+            result.Message = "";
             if (!string.IsNullOrEmpty(connectionString))
             {
-                using (var connection = new SQLiteConnection(connectionString))
+                try
                 {
-                    connection.Open();
-                    connection.Close();
-                    IsConnected = true;                   
+                    using (var connection = new SQLiteConnection(connectionString))
+                    {
+                        connection.Open();
+                        connection.Close();
+                        result.Connected = true;
+                        result.Message = "Connected successfully to SQLite database!!";
+                    }
                 }
+                catch (Exception ex)
+                {
+                    result.Connected = false;
+                    result.Message = ex.ToString();
+                }                   
             }
-            return IsConnected;
+            return result;
         }
     }
 }
