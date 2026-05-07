@@ -1,0 +1,14 @@
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\bin\x64\Debug\Test.exe.config
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\bin\x64\Debug\Test.exe
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\bin\x64\Debug\Test.pdb
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\bin\x64\Debug\ConnectionsLibrary.dll
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\bin\x64\Debug\ConnectionsLibrary.pdb
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.Properties.Resources.resources
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.csproj.GenerateResource.cache
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.csproj.Up2Date
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.exe
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.pdb
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.exe.config

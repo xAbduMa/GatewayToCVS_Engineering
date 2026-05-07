@@ -1,0 +1,6 @@
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\OperationsLibrary\bin\Debug\OperationsLibrary.dll
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\OperationsLibrary\bin\Debug\OperationsLibrary.pdb
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\OperationsLibrary\obj\Debug\OperationsLibrary.csproj.AssemblyReference.cache
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\OperationsLibrary\obj\Debug\OperationsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\OperationsLibrary\obj\Debug\OperationsLibrary.dll
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\OperationsLibrary\obj\Debug\OperationsLibrary.pdb

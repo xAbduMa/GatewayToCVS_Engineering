@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\",
+  "WorkspaceRootPath": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9485743-533E-42FA-BC10-E6D4AF4E3E62}|MianForm\\MianForm.csproj|c:\\users\\mahmouds\\source\\repos\\xabduma\\gatewaytocvs_engineering\\mianform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9485743-533E-42FA-BC10-E6D4AF4E3E62}|MianForm\\MianForm.csproj|c:\\users\\abdelm\\source\\repos\\xabduma\\gatewaytocvs_engineering\\mianform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9485743-533E-42FA-BC10-E6D4AF4E3E62}|MianForm\\MianForm.csproj|solutionrelative:mianform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|ConnectionsLibrary\\ConnectionsLibrary.csproj|c:\\users\\mahmouds\\source\\repos\\xabduma\\gatewaytocvs_engineering\\connectionslibrary\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|ConnectionsLibrary\\ConnectionsLibrary.csproj|solutionrelative:connectionslibrary\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,40 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbConnector.cs",
-              "DocumentMoniker": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\ConnectionsLibrary\\DbConnector.cs",
-              "RelativeDocumentMoniker": "ConnectionsLibrary\\DbConnector.cs",
-              "ToolTip": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\ConnectionsLibrary\\DbConnector.cs",
-              "RelativeToolTip": "ConnectionsLibrary\\DbConnector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T06:37:50.293Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
               "RelativeDocumentMoniker": "MianForm\\Program.cs",
-              "ToolTip": "C:\\Users\\Mahmouds\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
+              "ToolTip": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
               "RelativeToolTip": "MianForm\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T06:08:21.465Z",
+              "WhenOpened": "2026-05-07T19:30:51.124Z",
               "EditorCaption": ""
             }
           ]

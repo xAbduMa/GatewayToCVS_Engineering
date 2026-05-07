@@ -15,11 +15,18 @@ namespace ConnectionsLibrary
     public static class DbConnector
     {
         // Static dictionary to store connection strings by name
+        public static readonly List<string> Names;
         public static readonly Dictionary<string, string> Connections;
         public static readonly Dictionary<string, string> Providers;
 
         static DbConnector()
         {
+
+            // Populate the Connections dictionary from app.config/web.config
+            Names = ConfigurationManager.ConnectionStrings
+                .Cast<ConnectionStringSettings>()
+                .Select(cs => cs.Name).ToList();
+
             // Populate the Connections dictionary from app.config/web.config
             Connections = ConfigurationManager.ConnectionStrings
                 .Cast<ConnectionStringSettings>()
