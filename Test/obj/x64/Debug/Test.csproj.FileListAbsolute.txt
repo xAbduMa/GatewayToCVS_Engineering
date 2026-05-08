@@ -12,3 +12,4 @@ C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug
 C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.exe
 C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.pdb
 C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.exe.config
+C:\Users\AbdelM\source\repos\xAbduMa\GatewayToCVS_Engineering\Test\obj\x64\Debug\Test.ComboBoxDialogueForm.resources

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9485743-533E-42FA-BC10-E6D4AF4E3E62}|MianForm\\MianForm.csproj|c:\\users\\abdelm\\source\\repos\\xabduma\\gatewaytocvs_engineering\\mianform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9485743-533E-42FA-BC10-E6D4AF4E3E62}|MianForm\\MianForm.csproj|solutionrelative:mianform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD4D58FC-BCB2-4C92-B7CB-C675297BF25D}|Test\\Test.csproj|c:\\users\\abdelm\\source\\repos\\xabduma\\gatewaytocvs_engineering\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4D58FC-BCB2-4C92-B7CB-C675297BF25D}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|ConnectionsLibrary\\ConnectionsLibrary.csproj|c:\\users\\abdelm\\source\\repos\\xabduma\\gatewaytocvs_engineering\\connectionslibrary\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3035B899-D077-440B-9999-9214E7A15968}|ConnectionsLibrary\\ConnectionsLibrary.csproj|solutionrelative:connectionslibrary\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4D58FC-BCB2-4C92-B7CB-C675297BF25D}|Test\\Test.csproj|c:\\users\\abdelm\\source\\repos\\xabduma\\gatewaytocvs_engineering\\test\\comboboxdialogueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD4D58FC-BCB2-4C92-B7CB-C675297BF25D}|Test\\Test.csproj|solutionrelative:test\\comboboxdialogueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4D58FC-BCB2-4C92-B7CB-C675297BF25D}|Test\\Test.csproj|c:\\users\\abdelm\\source\\repos\\xabduma\\gatewaytocvs_engineering\\test\\comboboxdialogueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4D58FC-BCB2-4C92-B7CB-C675297BF25D}|Test\\Test.csproj|solutionrelative:test\\comboboxdialogueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +34,53 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbConnector.cs",
+              "DocumentMoniker": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\ConnectionsLibrary\\DbConnector.cs",
+              "RelativeDocumentMoniker": "ConnectionsLibrary\\DbConnector.cs",
+              "ToolTip": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\ConnectionsLibrary\\DbConnector.cs",
+              "RelativeToolTip": "ConnectionsLibrary\\DbConnector.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T18:54:34.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComboBoxDialogueForm.cs",
+              "DocumentMoniker": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\Test\\ComboBoxDialogueForm.cs",
+              "RelativeDocumentMoniker": "Test\\ComboBoxDialogueForm.cs",
+              "ToolTip": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\Test\\ComboBoxDialogueForm.cs",
+              "RelativeToolTip": "Test\\ComboBoxDialogueForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T18:37:26.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComboBoxDialogueForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\Test\\ComboBoxDialogueForm.cs",
+              "RelativeDocumentMoniker": "Test\\ComboBoxDialogueForm.cs",
+              "ToolTip": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\Test\\ComboBoxDialogueForm.cs [Design]",
+              "RelativeToolTip": "Test\\ComboBoxDialogueForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T18:33:39.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
-              "RelativeDocumentMoniker": "MianForm\\Program.cs",
-              "ToolTip": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\MianForm\\Program.cs",
-              "RelativeToolTip": "MianForm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\AbdelM\\source\\repos\\xAbduMa\\GatewayToCVS_Engineering\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T19:30:51.124Z",
+              "WhenOpened": "2026-05-08T18:32:07.582Z",
               "EditorCaption": ""
             }
           ]

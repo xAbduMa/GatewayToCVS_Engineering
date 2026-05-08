@@ -18,6 +18,7 @@ namespace ConnectionsLibrary
         public static readonly List<string> Names;
         public static readonly Dictionary<string, string> Connections;
         public static readonly Dictionary<string, string> Providers;
+        public static string BaseDirectory;
 
         static DbConnector()
         {
@@ -46,6 +47,7 @@ namespace ConnectionsLibrary
             switch (providerName)
             {
                 case "System.Data.SQLite":
+                    connectionString = connectionString.Replace("{AppDir}", BaseDirectory.TrimEnd('\\'));
                     result = HasSqLiteConnection(connectionString); break;
                 case "System.Data.SqlClient":
                     result = HasSqlServerConnection(connectionString); break;

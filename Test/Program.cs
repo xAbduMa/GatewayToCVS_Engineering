@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using ConnectionsLibrary;
 
@@ -17,16 +15,20 @@ namespace Test
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            string sqlServerConnectionString = DbConnector.Connections["DevelopmentCVS"];
-            string sqlServerProvider = DbConnector.Providers["DevelopmentCVS"];
-            ConnectionTest result = DbConnector.HasConnection(sqlServerProvider, sqlServerConnectionString);
-            MessageBox.Show(result.Message);
-            string sqLiteConnectionString = DbConnector.Connections["ANSI-B4P1N2DB"];
-            string sqLiteProvider = DbConnector.Providers["ANSI-B4P1N2DB"];
-            string absolutePath = AppDomain.CurrentDomain.BaseDirectory;
-            string useConnectionString = sqLiteConnectionString.Replace("{AppDir}", absolutePath.TrimEnd('\\'));
-            result = DbConnector.HasConnection(sqLiteProvider, useConnectionString);
-            MessageBox.Show(result.Message);
+            DbConnector.BaseDirectory= AppDomain.CurrentDomain.BaseDirectory;
+            List<string> ConnectionNames = DbConnector.Names;
+            string ConnectionStringName = "";
+            using (var dialog = new ComboBoxDialogueForm("Connection Strings", "Please select a connection string name:", ConnectionNames))
+            {
+                if (dialog.ShowDialog() == DialogResult.OK)
+                {
+                    ConnectionStringName = dialog.SelectedItem;
+                    string ConnectionString = DbConnector.Connections[ConnectionStringName];
+                    string Provider = DbConnector.Providers[ConnectionStringName];
+                    ConnectionTest result = DbConnector.HasConnection(Provider, ConnectionString);
+                    MessageBox.Show(result.Message);
+                }
+            }
         }
     }
 }
